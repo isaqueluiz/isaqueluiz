@@ -1,7 +1,7 @@
 ### Olá, Sou Isaque Luiz 👋
 
 - 🔭 Estudante de ciência  da computação
-- 🌱 Front-End |HTML|CSS|JavaScript 
+- 🌱 Front-End Developer
 
 
 <div align="center">
