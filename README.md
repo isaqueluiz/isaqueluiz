@@ -1,7 +1,7 @@
 ### Olá, Sou Isaque Luiz 👋
 
-- 🔭 Estudante de ciência  da computação
-- 🌱 Front-End Developer
+- 🔭 Estudante de Análise e desenvolvimento de sistema
+- 🌱 Android Developer
 
 
 <div align="center">
