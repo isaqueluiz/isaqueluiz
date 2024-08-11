@@ -1,7 +1,7 @@
 ### Olá, Sou Isaque Luiz 👋
 
 - 🔭 Estudante de Análise e desenvolvimento de sistema
-- 🌱 Developer
+- 🌱 Analista de Dados
 
 
 <div align="center">
